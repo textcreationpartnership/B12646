@@ -1,0 +1,145 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>By the Queene, a proclamation of the Queenes Maiesties pardon graunted to certaine of her subiectes vppon the west borders, hauyng offended by Leonard Dacres abusyng of them, in a rebellion lately stirred by him</title>
+            <author>England and Wales. Sovereign (1558-1603 : Elizabeth I)</author>
+         </titleStmt>
+         <extent>Approx. 9KB of XML-encoded text transcribed from 2 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B12646</idno><idno type="EEBO-CITATION">23665495</idno>
+  <idno type="VID">12595</idno>
+  <idno type="EEBO-PROQUEST">2264215074</idno>
+  <idno type="STC">STC 8027.3</idno>
+  <idno type="STC">STC 8026</idno>
+  <idno type="STC">ESTC S112302</idno>
+  
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-e"/>
+            <note>(EEBO-TCP ; phase 2, no. B12646)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 12595)</note>
+            <note>Images scanned from microfilm: (Early English books, 1475-1640 ; 455:90 or 1831:29)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>By the Queene, a proclamation of the Queenes Maiesties pardon graunted to certaine of her subiectes vppon the west borders, hauyng offended by Leonard Dacres abusyng of them, in a rebellion lately stirred by him</title>
+                  <author>England and Wales. Sovereign (1558-1603 : Elizabeth I)</author>
+                  <author>Elizabeth I, Queen of England, 1533-1603.</author>
+               </titleStmt>
+               <extent>[2] p.   </extent>
+               <publicationStmt>
+                  <publisher>Imprinted at London in Powles Churchyard, by Richard Jugge and John Cawood ...,</publisher>
+                  <pubPlace>[London] :</pubPlace>
+                  <date>[ca. 1618]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>"Gyuen at the Queenes Maiesties honor of Hampton court the fourth day of Marche. 1569. in the twelfth yere of her Maiesties reigne"--P. [2].</note>
+                  <note>"Cum priuilegio Regiæ Maiestatis"--P. [2].</note>
+                  <note>Date of publication suggested by STC (2nd ed.).</note>
+                  <note>Formerly STC 8026. Cf. STC (2nd ed.).</note>
+                  <note>Item at reel 455:90 identified as STC 8026.</note>
+                  <note>Reproductions of originals in the Bodleian Library and Harvard University Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="personal_name">Dacre, Leonard, d. 1573.</term>
+               <term type="topical_term">Proclamations --  Great Britain.</term>
+               <term type="geographic_name">Great Britain --  History --  Elizabeth, 1558-1603.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-01 </date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-04 </date>
+            <label>Amanda Flynn </label>Sampled and proofread </change>
+         <change>
+            <date>2014-04 </date>
+            <label>Amanda Flynn</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="proclamation">
+            <pb facs="tcp:12595:1"/>
+            <head>❧ By the Queene.</head>
+            <head type="sub">¶ A proclamation of the Queenes Maiesties pardon graunted to certaine of her subiectes vppon the west borders, hauyng offended by Leonard Dacres abusyng of them, in a rebellion lately stirred by him.</head>
+            <p>
+               <seg rend="decorInit">T</seg>He Queenes Maiestie beyng infourmed, that in a late rebellion attemp<g ref="char:EOLhyphen"/>ted by Leonard Dacres in Cumberlande, within the west Mardenry vp<g ref="char:EOLhyphen"/>pon the frontiers of Scotland, the great number of her subiectes that came to hym, were abused and falsely allured to ayde him, partly for de<g ref="char:EOLhyphen"/>fence of his possession which he had gotten of certaine houses whervnto he pretended title, though against the order of the lawes of the Realme, and partly to withstand certaine incursions that he vntruely pretended, shoulde be shortly made into those borders by the outlawes of Scotland, and the Rebelles lately fled out of Englande: And nowe sence the sayde Leonarde Dacres contrary to his false perswasions, hath manifestly declared him selfe by his trayto<g ref="char:EOLhyphen"/>rous actes, to haue assembled this power only to make a newe rebellion against her Maiestie and the crowne of this Realme: The multitude of her sayd poore subiectes which were by such false and tray<g ref="char:EOLhyphen"/>torous deuices allured to come to him in force and armes, without knowledge of his traytorous inten<g ref="char:EOLhyphen"/>tes, haue most lamentably acknowledged and confessed their errors, and with clamors and outcryinges haue accursed the sayde Leonarde Dacres, as a most wicked and pernitious traytor, making most piti<g ref="char:EOLhyphen"/>full intercessions, by meanes of her Maiesties right trusty and welbeloued cosyn the Lorde of Hunsdon, gouernour of the towne of Barwicke, and Lorde warden of the east marches towarde Scotlande, that they might be receaued to her Maiesties mercie, and haue their pardons, with full intent to be hereaf<g ref="char:EOLhyphen"/>ter during their liues, more carefull how to be abused, in like maner to assemble and arme themselues vpon prouocation of any priuate subiect, hauyng no office nor auctoritie vnder her Maiestie, as in deede the sayde Leonarde Dacres had none. Herevpon her Maiestie beyng specially mooued by the informa<g ref="char:EOLhyphen"/>tion of her sayde cosyn the Lord of Hunsoon, and also of the Lorde Scroope her warden vpon the same west borders, aswell of the abuse and errors of her sayde subiectes, as of their repentanuce (amongst whom, to her Maiesties great comfort, no gentleman of blood and estimation hath ben as yet founde to haue offended) hath ben pleased to extende her mercie in this sort following. That it shalbe lefull for all her sayd subiectes, which in this rebellion were in company with the sayde Leonarde Dacres, or any wyse attendyng or assysting hym the xix. and xx. of the last moneth of February, to returne to their habitations and dwellyng places, and immediatly assoone as they may, to geue knowledge to the Lord Warden of the sayde west marches, or to the Sheriffe of any of the shyres where their habitations were before their offences, or to such inferior officers as they shall appoint for that purpose. And there vpon her Maiestie wylleth and commaundeth, that no maner of officer or other person, shall molest them in their persons, goods, chattelles, or landes, for their assystyng and aydyng of the sayde Leonard Dacres in his sayde treason: so as euery such person after notice geuen to the sayde Lorde warden, Sheryffe, or their ministers, shall by the direction of them, submit them selues to such orders as by them shalbe noti<g ref="char:EOLhyphen"/>fied, for recognition of their offences: and so consequently euery of them shall haue and enioy theyr full pardons from her Maiestie, whensoeuer they shall sue for the same in the Chauncery.</p>
+            <p>Prouided alwayes that this her Maiesties pardon shall not extende by any construction to the sayde Leonarde Dacres, nor any of his brethren, nor to any that dyd before offende in the late rebellion with the two Earles of Northumberlande &amp; Westmerlande, nor to any Iustices of Peace, Constables, Ryues, Bayliffes of Cownes, or lande Seriantes: nor to any that at the publication of this Proclamation shalbe in pryson deteyned for this rebellion: nor to any persons that shall be by the Lorde warden of the west borders, thought for their wylfull and contemptuous behauiour in this rebellion, or for lacke of their due repentaunce vnworthy of this mercy: so as the names of the sayde persons so to be thought vn<g ref="char:EOLhyphen"/>worthy, be in wrytyng set vp to be read &amp; openly seene at the market crosse of Carlile, or other market townes in the sayde Mardenry, the day of the publication hereof.</p>
+            <pb facs="tcp:12595:2"/>
+            <p>And because the vnworthynesse of the sayde traytour Leonard Dacres, may in some part the more appeare to suche as be ignoraunt thereof, her Maiestie is content it be vnderstande, that as the hath ben by the goodnesse of her nature abused by the two late Earles of Northumberlande and Westmer<g ref="char:EOLhyphen"/>lande, so was she euen in the beginning of the saide Earles rebellion contented, vpon sute made by the sayde Leonarde Dacres (notwithstandyng she had heard that he had ben the sommer before secretlye conuersant with the sayde Earles) to admit him at Windsor to her presence: where being priuately with her selfe, he made offers of his seruice agaynst the sayde Earles, beyng then proclaymed traytors, and most earnestly requested her Maiestie therein to commit trust to hym, as to a most faithfull subiect and seruaunt, vsing many kind of speaches, not without assuraunces by othes to prouoke her Maiestie not onlye to offer hym her fauour, but to commit to hym charge to repayre into the place where he nowe committed this treason, and there to ioyne with her warden in seruice against the sayde rebelles. According whereunto he departed in all haste, and as hath ben since discouered to her Maiestie, dyd then immediatly in his iourney comming neere the rebels, renewe his former conspiracies by secret comfor<g ref="char:EOLhyphen"/>ting the sayde rebels, with promises of ayde of men and money, vsing for more credite the names of princes Ambassadours: and after that conspired with them by letters and messages, vnder colour of gathering of force for seruice of her Maiestie, to haue traytorouslye destroyed the lorde Scroope in the feelde, &amp; to haue taken the citie and castle of Carlile, &amp; there to haue murdered the byshop. And not beyng able to compasse the same as he desyred, seeing the two Earles forced to flee the Realme, he sent messages and letters of his owne hand (which are extant to be seene) to certayne in Scotlande, requiring fa<g ref="char:EOLhyphen"/>uour to be shewed to the sayd Earles, and promising (assoone as he coulde finde tyme) to shew him selfe an open freende to them, &amp; so did he manifestly &amp; traitorously perfourme the same, by fortifiyng the castle of Nawarde with men, munition, and vittaile, by assemblyng the Queenes Maiesties subiectes with firing of Beacons, and in the ende finding his power increased with a great number of Scottes, did en<g ref="char:EOLhyphen"/>ter into the playne feelde, against the Queenes Maiesties power vnder the conduct of the lorde of Huns<g ref="char:EOLhyphen"/>don, which when he woulde haue vanquished (as he certainely accompted that he myght by reason of his great numbers) he was forced like a traitor to flee, and all his owne power vanquished by the iu<g ref="char:EOLhyphen"/>stice of Almightie God, assistyng her Maiesties Wardens of her East &amp; Middle marches, being in num<g ref="char:EOLhyphen"/>ber farre inferiors, but in the goodnes of the cause farre superiors, and of them through Gods goodnes very few hurt: whereof it is good for all persons to take example, and to beware howe they shall follow the lewd perswasions of any other in causes vniust against their soueraigne Lady, beyng by Almightie God (as is manifestly seene) ordeyned to be the superior and vanquisher of all wicked persons, and their attemptes.</p>
+            <closer>
+               <dateline>Gyuen at the Queenes Maiesties honor of Hampton court <date>the fourth day of Marche. <hi>1569.</hi> in the twelfth yere of her Maiesties reigne.</date>
+               </dateline>
+            </closer>
+            <closer>God saue the Queene.</closer>
+         </div>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>❧ Imprinted at London in Powles Churchyard, by <hi>Richarde Jugge</hi> and <hi>John Cawood, Printers to the Quenes Maiestie.</hi>
+            </p>
+            <q>
+               <floatingText xml:lang="lat">
+                  <body>
+                     <div type="privilege">
+                        <p>
+                           <hi>Cum priuilegio Regia Maiestatis.</hi>
+                        </p>
+                     </div>
+                  </body>
+               </floatingText>
+            </q>
+         </div>
+      </back>
+   </text>
+</TEI>
